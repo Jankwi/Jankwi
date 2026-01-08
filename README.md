@@ -1,9 +1,9 @@
 ## Hi there, I'm Jankwi 👋
 I'm a CS student at the University of Warsaw, and a big math nerd. My interests lie at the intersection of Research and Engineering.
-Recently I've done projects in Machine Learning, as well as Algorithmics. Take a look:
+Recently I've done projects in Machine Learning, as well as in Algorithmics. Take a look:
 
 ## My Projects
-* [Breaking the sorting Barrier in Code](https://github.com/Jankwi/SSSP-Code) - Implementation, benchmarking and analysis of the BMSSP algorithm, famously beating Dijikstra. My experiments show that the algorithm may be applicable in certain use cases.
+* [Breaking the Sorting Barrier in Code](https://github.com/Jankwi/SSSP-Code) - Implementation, benchmarking and analysis of the BMSSP algorithm, famously beating Dijikstra. My experiments show that the algorithm may be applicable in certain use cases.
 * [Blockudoku RL](https://github.com/Jankwi/Blockudoku-RL) - Library for Reinforcement Learning for the game of blockudoku + succesfull experiment examples.
 
 ## My Contributions
