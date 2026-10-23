@@ -4,7 +4,7 @@ Recently I've done projects in Machine Learning, as well as in Algorithmics. Tak
 
 ## My Projects
 * [RCRL](https://github.com/Jankwi/RCRL) - Conditioning Contrastive Reinforcement Learning on abstract goals. Accepted to NeurIPS 2026 workshops.
-* [Breaking the Sorting Barrier in Code](https://github.com/Jankwi/SSSP-Code) - Implementation, benchmarking and analysis of the BMSSP algorithm, famously beating Dijikstra.
+* [Breaking the Sorting Barrier in Code](https://github.com/Jankwi/SSSP-Code) - Implementation and analysis of the BMSSP algorithm, famously "beating" Dijikstra.
 * [Blockudoku RL](https://github.com/Jankwi/Blockudoku-RL) - Library for Reinforcement Learning for the game of blockudoku + succesfull experiment examples.
 * [Takuzu](https://github.com/Jankwi/Takuzu) - Fast (CPU) torch C++ solvers for Takuzu. Used for trajectory generation for RCRL.
 
