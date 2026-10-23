@@ -11,7 +11,7 @@ Recently I've done projects in Machine Learning, as well as in Algorithmics. Tak
 ## My Contributions
 * [vLLM](https://github.com/vllm-project/vllm) - Expanding the scope of multi-modal UUIDs. Reducing latency through UUID-based cache lookups.
 * [NVIDIA Dynamo](https://github.com/ai-dynamo/dynamo) - Minor changes, made during my internship at NVIDIA
-* [The SIO2 project](https://github.com/sio2project/oioioi) - For one year, I was part of a group of 10 students, working on platforms supporting the Polish Olympiad in Informatics.
+* [The SIO2 project](https://github.com/sio2project/oioioi) - Last year, I was part of a group of 10 students, working on platforms supporting the Polish Olympiad in Informatics.
 
 <!--
 **Jankwi/Jankwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
